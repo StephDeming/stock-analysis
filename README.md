@@ -12,7 +12,6 @@ The initial code had this loop
 ![initial_loop_code](https://user-images.githubusercontent.com/90067477/135732731-df5434ff-72dd-474e-b695-c5e3d4134324.png)
 
 which ran in .71875 seconds for 2017 and .7148438 for 2018
-
 ![VBA_2017_initial](https://user-images.githubusercontent.com/90067477/135732030-63792d4d-e988-41b0-a11c-d9aea9d76c3c.png)
 ![VBA_2018_initial](https://user-images.githubusercontent.com/90067477/135732034-bea40482-5a48-4542-8a20-b2fa4129cfd0.png)
 
