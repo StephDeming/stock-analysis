@@ -1,5 +1,5 @@
 # stock-analysis
-Overview of Project: Explain the purpose of this analysis.
+**##Overview**
 Helping a client with a more efficient data colletion for a large dataset spanning two years(2017 and 2018). The goal was to loop through the dataset once and resive a faster result than with the initial coding.  
 
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
@@ -12,17 +12,20 @@ The initial code had this loop
 ![initial_loop_code](https://user-images.githubusercontent.com/90067477/135732731-df5434ff-72dd-474e-b695-c5e3d4134324.png)
 
 which ran in .71875 seconds for 2017 and .7148438 for 2018
+
 ![VBA_2017_initial](https://user-images.githubusercontent.com/90067477/135732030-63792d4d-e988-41b0-a11c-d9aea9d76c3c.png)
 ![VBA_2018_initial](https://user-images.githubusercontent.com/90067477/135732034-bea40482-5a48-4542-8a20-b2fa4129cfd0.png)
 
-The refactored loop seemed to be less efficient when running in 2017 at .7421875 and much more efficient in 2018 at .48375
+The refactored loop
+
+![refactored_loop](https://user-images.githubusercontent.com/90067477/135733191-286b7a1e-fc39-484a-bd50-5ddb7a335faa.png)
+
+seemed to be less efficient when running in 2017 at .7421875 and much more efficient in 2018 at .48375
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90067477/135732038-057f1bcc-79e8-47e5-a250-16f18b4f4361.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/90067477/135732042-18264566-722d-4592-bb93-d31acaf9d05b.png)
 
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+##Summary
 After spending the time and doing this work I understand that refactoring code is important. However, the old adage of "if it ain't broke, don't fix it" also comes to mind. The initial code ran through the arrray and did the job it was supposed to, in one case more efficiently than the refactored code. 
 
 Refactoring the code gave more efficient variables to use and made the loops easier to understand. I can see that once you have experience and really understand what you're doing that it would be a very valuable skill. However, at this point the output didn't seem worth it.
