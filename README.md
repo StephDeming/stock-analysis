@@ -9,12 +9,15 @@ I dont't understand the stock market or what a lot of the terms mean. However, t
 ![2018_stocks](https://user-images.githubusercontent.com/90067477/135732706-f269bfdb-ecfc-4b18-9ee6-059b1588dd39.png)
 
 The initial code had this loop 
+
 ![initial_loop_code](https://user-images.githubusercontent.com/90067477/135732731-df5434ff-72dd-474e-b695-c5e3d4134324.png)
+
 which ran in .7304688 seconds for 2017 and .738281 for 2018
+
 ![VBA_2017_initial](https://user-images.githubusercontent.com/90067477/135732030-63792d4d-e988-41b0-a11c-d9aea9d76c3c.png)
 ![VBA_2018_initial](https://user-images.githubusercontent.com/90067477/135732034-bea40482-5a48-4542-8a20-b2fa4129cfd0.png)
 
-The refactored loop seemed tp be less efficient when running in 2017 at .7421875
+The refactored loop seemed to be less efficient when running in 2017 at .7421875 and much more efficient in 2018 at .48375
 
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90067477/135732038-057f1bcc-79e8-47e5-a250-16f18b4f4361.png)
 
