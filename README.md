@@ -1,8 +1,11 @@
 # stock-analysis
-**##Overview**
+**#Overview**
+
 Helping a client with a more efficient data colletion for a large dataset spanning two years(2017 and 2018). The goal was to loop through the dataset once and resive a faster result than with the initial coding.  
 
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+**#Comparison**
+
+
 I dont't understand the stock market or what a lot of the terms mean. However, the returns for 2017 seem remarkably high compared to 2018. in 2017 "DQ"(the initial stock that we were watching) had a return of 199.4%, in 2018 it dropped to -62.6%.  "ENPH" seemed to hold value relatively well with a return of 129.5% in 2017  and 81.9% in 2018. There were some drastic changes, as evidenced by "RUN" who went from a 5.5% return in 2017 to a 84% return in 2018. The outcomes of both years are shown below. 
 ![2017_stocks](https://user-images.githubusercontent.com/90067477/135732705-3bb43c21-c7f6-48c9-80cc-a03ee57084cb.png)
 ![2018_stocks](https://user-images.githubusercontent.com/90067477/135732706-f269bfdb-ecfc-4b18-9ee6-059b1588dd39.png)
@@ -22,8 +25,7 @@ The refactored loop
 
 seemed to be less efficient when running in 2017 at .7421875 and much more efficient in 2018 at .48375
 
-![VBA_Challenge_2017](https://user-images.githubusercontent.com/90067477/135732038-057f1bcc-79e8-47e5-a250-16f18b4f4361.png)
-![VBA_Challenge_2018](https://user-images.githubusercontent.com/90067477/135732042-18264566-722d-4592-bb93-d31acaf9d05b.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/90067477/135732038-057f1bcc-79e8-47e5-a250-16f18b4f4361.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/90067477/135732042-18264566-722d-4592-bb93-d31acaf9d05b.png)
 
 ##Summary
 After spending the time and doing this work I understand that refactoring code is important. However, the old adage of "if it ain't broke, don't fix it" also comes to mind. The initial code ran through the arrray and did the job it was supposed to, in one case more efficiently than the refactored code. 
