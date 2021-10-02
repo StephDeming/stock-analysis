@@ -27,7 +27,7 @@ was much more efficient and the textboxes more informational as they included th
  
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/90067477/135732038-057f1bcc-79e8-47e5-a250-16f18b4f4361.png)![VBA_Challenge_2018](https://user-images.githubusercontent.com/90067477/135732042-18264566-722d-4592-bb93-d31acaf9d05b.png)
 
-**##Summary**
+**#Summary**
 
 After spending the time and doing this work I understand that refactoring code is important. However, the old adage of "if it ain't broke, don't fix it" also comes to mind. The initial code ran through the arrray and did the job it was supposed to.
 
