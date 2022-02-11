@@ -1,7 +1,7 @@
 # stock-analysis
 **#Overview**
 
-Helping a client with a more efficient data colletion for a large dataset spanning two years(2017 and 2018). The goal was to loop through the dataset once and resive a faster result than with the initial coding.  
+Helping a client with a more efficient data colletion for a large dataset spanning two years(2017 and 2018). The goal was to loop through the dataset once and recieve a faster result than with the initial coding.  
 
 **#Comparison**
 
